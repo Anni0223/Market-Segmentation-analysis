@@ -15,4 +15,5 @@
 
 🌟Output:
 Identified 4 distinct customer segments, enabling us to tailor specific strategies for engagement helping expand our customer base and fostering increased loyalty.
+
 Check the market segmentation analysis ipybn file for whole analyis 
